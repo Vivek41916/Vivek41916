@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vivek41916
 - 👀 I’m interested in Problem solving
 - 🌱 I’m currently studying Bachelor of Technology
-- 💞️ I’m looking to collaborate on Microsoft
+- 💞️ I’m looking to collaborate on Reputed Companies.
 
 <!---
 Vivek41916/Vivek41916 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
