@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vivek41916
+- 👋 Hi, I’m @Vivek
 - 👀 I’m interested in Problem solving
 - 🌱 I’m currently studying Bachelor of Technology
 - 💞️ I’m looking to collaborate on Reputed Companies.
